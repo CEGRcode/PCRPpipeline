@@ -17,5 +17,6 @@ Bioinformatic pipeline used to process PCRP datasets
 
 ## Sample ID file format
 4-column tab-delimited file containing the information required to run the pipeline for each sample
-SampleID        Full path to SAMPLE.bam      Full path to CONTROL.bam     Full path ro relevant Reference features
 
+| SampleID | Full path to SAMPLE.bam | Full path to CONTROL.bam | Full path to Reference features |
+| --- |---|---|---|
