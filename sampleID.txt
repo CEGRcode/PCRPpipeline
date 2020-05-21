@@ -1,0 +1,2 @@
+SampleID        SamplePath      ControlPath     RefPath
+uniqID   /path/to/SAMPLE.bam	/path/to/CONTROL.bam	/path/to/yy_REF/
